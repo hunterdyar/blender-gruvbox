@@ -938,7 +938,7 @@
     </text_editor>
     <node_editor>
       <ThemeNodeEditor
-        grid="#3c3836"
+        grid="#242222"
         node_selected="#d65d0e"
         node_active="#fbf1c7"
         wire="#928374"
@@ -954,7 +954,7 @@
         matte_node="#b16286"
         distor_node="#83a598"
         noodle_curving="5"
-        grid_levels="2"
+        grid_levels="7"
         input_node="#fb4934"
         output_node="#cc241d"
         filter_node="#b16286"
